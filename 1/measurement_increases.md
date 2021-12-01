@@ -1,0 +1,1 @@
+Take the inputs as a list, then get the deltas. Add up the deltas greater than 0. 

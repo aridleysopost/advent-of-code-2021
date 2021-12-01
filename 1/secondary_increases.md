@@ -1,0 +1,1 @@
+Take the inputs and append two 0s, rotate left then sum twice to get the rolling sums, remove the trailing 2 sums then get the deltas and count how many more than 0.
